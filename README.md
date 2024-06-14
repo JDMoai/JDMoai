@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DongGil　github&fontSize=90" />
 </div>
 
-
-
+<h3 align="center">안녕하세요. 신입개발자 장동길입니다.</br>현재 저의 관심분야는 데이터베이스 입니다!</h3>
 <h1 align="center"> 🛠STACKS</h1>
 <div align="center">
 </br>
