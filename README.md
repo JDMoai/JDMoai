@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white/>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--
 **JDMoai/JDMoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
